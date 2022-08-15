@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichaelSjogren
+👋 Hi, I’m @MichaelSjogren
 - 👀 I’m interested in working
 - 🌱 I’m currently learning zig and elm
 - 💞️ I’m looking to collaborate on nothing
