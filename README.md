@@ -1,7 +1,7 @@
 👋 Hi, I’m @MichaelSjogren
 - 👀 I’m interested in working
 - 🌱 I’m currently learning zig and elm
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on everything?
 - 📫 How to reach me ...
 
 <!---
